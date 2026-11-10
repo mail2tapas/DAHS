@@ -1,0 +1,10 @@
+# Reference environment of the paper (Python 3.13.17, Linux, 2 CPU cores, 8 GB RAM)
+qiskit==2.6.2
+qiskit-ibm-runtime==0.51.0
+qiskit-aer==0.18.2
+qiskit-addon-cutting==0.10.0
+mqt.bench==2.3.0
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+matplotlib==3.11.2
