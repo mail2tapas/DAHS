@@ -1,0 +1,15 @@
+algo,width,cut_gates,cut_qpd,overhead,dev_whole,dev_a,dev_b,esp_whole,esp_cut,n_subexperiments,shots_per_sub
+bv,8,1,1,9,fake_torino,fake_torino,fake_kyiv,0.8497259805496751,0.8617798233394771,12,3000
+bv,10,1,1,9,fake_prague,fake_torino,fake_kyiv,0.7598972850296262,0.8194365042722207,12,3000
+bv,12,2,2,81,fake_prague,fake_torino,fake_kolkata,0.6981776881046878,0.7701787438997342,72,4500
+dj,8,1,2,81,fake_prague,fake_kyiv,fake_fez,0.6974803149919855,0.8492388894758248,72,4500
+dj,10,1,3,729,fake_prague,fake_kyiv,fake_fez,0.5565948337915487,0.8141523425444882,432,6750
+ghz,8,1,1,9,fake_prague,fake_kyiv,fake_prague,0.815723253693881,0.833611442968517,12,3000
+ghz,10,1,1,9,fake_prague,fake_kyiv,fake_prague,0.7412127418558323,0.7666158809229683,12,3000
+ghz,12,1,1,9,fake_prague,fake_fez,fake_prague,0.6461629290017017,0.7072186421767387,12,3000
+qnn,8,1,1,9,fake_prague,fake_kyiv,fake_prague,0.8107141475718032,0.8287548021843862,12,3000
+qnn,10,1,1,9,fake_prague,fake_kyiv,fake_prague,0.7352077212362841,0.7599199842046053,12,3000
+qnn,12,1,1,9,fake_prague,fake_fez,fake_prague,0.6453764340655069,0.6989456384720761,12,3000
+wstate,8,2,2,81,fake_prague,fake_kyiv,fake_prague,0.7869210271308023,0.8052432767853284,72,4500
+wstate,10,2,2,81,fake_prague,fake_prague,fake_prague,0.7031645035546554,0.7216829785681945,72,4500
+wstate,12,2,2,81,fake_prague,fake_fez,fake_prague,0.6069160524504809,0.661122153790388,72,4500
